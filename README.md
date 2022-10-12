@@ -1,2 +1,2 @@
-# Pet-Salon-Assignment-3
-Assignment 3
+# Pet Salon
+ Assignment 1
